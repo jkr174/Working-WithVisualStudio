@@ -1,0 +1,42 @@
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\bin\Debug\net5.0\appsettings.json
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\bin\Debug\net5.0\Working WithVisualStudio.exe
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\bin\Debug\net5.0\Working WithVisualStudio.deps.json
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\bin\Debug\net5.0\Working WithVisualStudio.runtimeconfig.json
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\bin\Debug\net5.0\Working WithVisualStudio.runtimeconfig.dev.json
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\bin\Debug\net5.0\Working WithVisualStudio.dll
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\bin\Debug\net5.0\ref\Working WithVisualStudio.dll
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\bin\Debug\net5.0\Working WithVisualStudio.pdb
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\bin\Debug\net5.0\Working WithVisualStudio.Views.dll
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\bin\Debug\net5.0\Working WithVisualStudio.Views.pdb
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.csprojAssemblyReference.cache
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.AssemblyInfoInputs.cache
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.AssemblyInfo.cs
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.csproj.CoreCompileInputs.cache
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.RazorAssemblyInfo.cache
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.RazorAssemblyInfo.cs
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\staticwebassets\Working WithVisualStudio.StaticWebAssets.Manifest.cache
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\staticwebassets\Working WithVisualStudio.StaticWebAssets.xml
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\scopedcss\bundle\Working WithVisualStudio.styles.css
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.TagHelpers.input.cache
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.TagHelpers.output.cache
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.RazorCoreGenerate.cache
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.RazorTargetAssemblyInfo.cache
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.RazorTargetAssemblyInfo.cs
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.Views.pdb
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.dll
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\ref\Working WithVisualStudio.dll
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.pdb
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.genruntimeconfig.cache
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\obj\Debug\net5.0\Working WithVisualStudio.csproj.CopyComplete
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\bin\Debug\net5.0\bower.json
+C:\Users\jromo021627\source\repos\Working WithVisualStudio\bin\Debug\net5.0\Microsoft.VisualStudio.Web.BrowserLink.dll
