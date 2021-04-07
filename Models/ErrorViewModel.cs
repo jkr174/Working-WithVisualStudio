@@ -1,6 +1,6 @@
 using System;
 
-namespace Working_WithVisualStudio.Models
+namespace WorkingWithVisualStudio.Models
 {
     public class ErrorViewModel
     {

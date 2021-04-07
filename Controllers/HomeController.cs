@@ -1,36 +1,23 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
+using WorkingWithVisualStudio.Models;
 using System.Linq;
-using System.Threading.Tasks;
-using Working_WithVisualStudio.Models;
 
-namespace Working_WithVisualStudio.Controllers
+namespace WorkingWithVisualStudio.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        public IRepository Repository = SimpleRepository.SharedRepository;
 
-        public HomeController(ILogger<HomeController> logger)
+        public IActionResult Index() => View(Repository.Products);
+
+        [HttpGet]
+        public IActionResult AddProduct() => View(new Product());
+
+        [HttpPost]
+        public IActionResult AddProduct(Product p)
         {
-            _logger = logger;
-        }
-
-        public IActionResult Index()
-            => View(SimpleRepository.SharedRepository.Products
-                .Where(p => p?.Price < 50));
-
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            Repository.AddProduct(p);
+            return RedirectToAction("Index");
         }
     }
 }
